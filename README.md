@@ -7,8 +7,8 @@ This is a programming demonstration to provide a Java solution for a simple tool
 
 Built With
 --------
-Java 11
-Junit 5
+* Java 11
+* Junit 5
 
 Tests
 -----

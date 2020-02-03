@@ -61,7 +61,7 @@ public class RentalAgreement extends Checkout{
 	 * @param isWeekendCharged will weekends be charged
 	 * @param isHolidayCharged will holidays be charged
 	 * @param lcRentDayCount count of days needing to rent the tool
-	 * @return amount of days chargeable based on tool based on tool being checked out
+	 * @return amount of days chargeable based on tool being checked out
 	 */
 	private int getChargeDays(boolean isWeekdayCharged, boolean isWeekendCharged, boolean isHolidayCharged, int lcRentDayCount) {
 		int days = lcRentDayCount;
